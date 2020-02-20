@@ -1,0 +1,1 @@
+// global function for call services
